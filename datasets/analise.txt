@@ -1,0 +1,38 @@
+parametros:
+- Data do levantamento
+- número de casos confirmados
+- país/estado
+- número de mortes
+
+
+classes sugeridas:
+- risco [1..5]
+
+parametros extraidas:
+- Periodo de flexibilização
+
+
+parametros não existentes, porém relevantes para o contexto:
+- nível de isolamento social
+- idade (grupo de risco)
+- populacao
+- taxa de infectados (extraido)
+- taxa de mortes (extraido)
+- numero de pacientes recuperados
+- taxa de isolamento social
+- número de leitos / taxa de ocupação de leitos
+- projeção de infectividade (extraido)
+ - nível de isolamento social X numero de casos confirmados
+ - Cados confirmados ao longo do tempo, dado o nivel de isolamento social
+ 
+visualizações comuns:
+- casos confirmados ao longo do tempo
+- numero de óbitos ao longo do tempo
+- número de solicitações de atendimento/enfermaria ao longo do tempo
+
+Visualizações sugeridas:
+- Para determinada localidade: Comparativo entre números de casos confirmados e mortes ao longo do tempo.
+insight: o quanto aquela localidade consegue absorver casos confirmados, minimizando mortes.
+
+
+- 

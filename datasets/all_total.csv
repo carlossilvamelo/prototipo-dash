@@ -1,0 +1,216 @@
+Country,Time,Confirmed,Deaths
+Afghanistan,100,16509,270
+Albania,86,1164,33
+Algeria,99,9626,667
+Andorra,93,844,51
+Angola,75,86,4
+Antigua and Barbuda,82,26,3
+Argentina,92,18319,569
+Armenia,94,10009,158
+Australia,129,7229,102
+Austria,99,16759,669
+Azerbaijan,94,5935,71
+Bahamas,79,102,11
+Bahrain,100,12311,19
+Bangladesh,87,52445,709
+Barbados,78,92,7
+Belarus,96,44255,243
+Belgium,120,58615,9505
+Belize,72,18,2
+Benin,79,244,3
+Bhutan,89,47,0
+Bolivia,84,10991,376
+Bosnia and Herzegovina,90,2535,157
+Botswana,65,40,1
+Brazil,98,555383,31199
+Brunei,86,141,2
+Bulgaria,87,2538,144
+Burkina Faso,85,881,53
+Burma,68,232,6
+Burundi,64,63,1
+Cabo Verde,75,466,5
+Cambodia,128,125,0
+Cameroon,89,6585,200
+Canada,129,93959,7476
+Central African Republic,80,1069,4
+Chad,76,803,66
+Chile,92,108686,1188
+China,133,84161,4638
+Colombia,89,30593,1014
+Comoros,34,132,2
+Congo (Brazzaville),80,611,20
+Congo (Kinshasa),84,3326,72
+Costa Rica,89,1105,10
+Cote d'Ivoire,84,3024,33
+Croatia,99,2246,103
+Cuba,83,2092,83
+Cyprus,86,952,17
+Czechia,94,9364,323
+Denmark,97,11934,580
+Diamond Princess,117,712,13
+Djibouti,77,3779,25
+Dominica,73,18,0
+Dominican Republic,94,17752,515
+Ecuador,94,40414,3438
+Egypt,110,27536,1052
+El Salvador,76,2653,49
+Equatorial Guinea,80,1306,12
+Eritrea,74,39,0
+Estonia,97,1870,68
+Eswatini,81,294,3
+Ethiopia,82,1344,14
+Fiji,76,18,0
+Finland,126,6887,320
+France,131,188450,28943
+Gabon,81,2803,20
+Gambia,78,25,1
+Georgia,98,796,13
+Germany,128,183879,8563
+Ghana,81,8297,38
+Greece,98,2937,179
+Grenada,73,23,0
+Guatemala,81,5586,123
+Guinea,82,3886,23
+Guinea-Bissau,70,1339,8
+Guyana,83,153,12
+Haiti,75,2226,45
+Holy See,89,12,0
+Honduras,84,5527,225
+Hungary,91,3921,532
+Iceland,96,1806,10
+India,125,207191,5829
+Indonesia,93,27549,1663
+Iran,105,157562,7942
+Iraq,100,7387,235
+Ireland,95,25066,1658
+Israel,103,17285,290
+Italy,124,233515,33530
+Jamaica,84,590,9
+Japan,133,16837,902
+Jordan,92,755,9
+Kazakhstan,82,11571,44
+Kenya,82,2093,71
+Korea South,133,11590,273
+Kosovo,69,1064,30
+Kuwait,100,28649,226
+Kyrgyzstan,77,1845,17
+Laos,71,19,0
+Latvia,93,1071,24
+Lebanon,103,1242,27
+Lesotho,21,2,0
+Liberia,79,311,28
+Libya,71,182,5
+Liechtenstein,91,82,1
+Lithuania,96,1682,71
+Luxembourg,95,4020,110
+MS Zaandam,67,9,2
+Madagascar,75,845,6
+Malawi,62,358,4
+Malaysia,130,7877,115
+Maldives,87,1841,7
+Mali,70,1351,78
+Malta,88,620,9
+Mauritania,81,668,31
+Mauritius,77,335,10
+Mexico,96,97326,10637
+Moldova,87,8548,307
+Monaco,95,99,4
+Mongolia,85,185,0
+Montenegro,78,324,9
+Morocco,93,7866,206
+Mozambique,73,307,2
+Namibia,81,25,0
+Nepal,130,2099,8
+Netherlands,97,46852,5986
+New Zealand,96,1504,22
+Nicaragua,76,1118,46
+Niger,75,960,65
+Nigeria,96,10819,314
+North Macedonia,98,2391,141
+Norway,98,8455,237
+Oman,100,12799,59
+Pakistan,98,76398,1621
+Panama,85,14095,352
+Papua New Guinea,75,8,0
+Paraguay,87,1013,11
+Peru,89,170039,4634
+Philippines,125,18997,966
+Poland,91,24395,1092
+Portugal,93,32895,1436
+Qatar,95,60259,43
+Romania,98,19517,1288
+Russia,124,423186,5031
+Rwanda,81,384,2
+Saint Kitts and Nevis,70,15,0
+Saint Lucia,81,18,0
+Saint Vincent and the Grenadines,81,26,0
+San Marino,97,672,42
+Sao Tome and Principe,58,484,12
+Saudi Arabia,93,89011,549
+Senegal,93,3836,43
+Serbia,89,11454,245
+Seychelles,81,11,0
+Sierra Leone,64,896,46
+Singapore,132,35836,24
+Slovakia,89,1522,28
+Slovenia,90,1475,109
+Somalia,79,2089,79
+South Africa,90,35812,755
+South Sudan,59,994,10
+Spain,123,239932,27127
+Sri Lanka,128,1683,11
+Sudan,82,5310,307
+Suriname,81,54,1
+Sweden,124,38589,4468
+Switzerland,99,30874,1920
+Syria,73,123,6
+Taiwan*,133,443,7
+Tajikistan,34,4100,47
+Tanzania,79,509,21
+Thailand,133,3083,58
+Timor-Leste,73,24,0
+Togo,89,445,13
+Trinidad and Tobago,81,117,8
+Tunisia,91,1086,48
+Turkey,84,165555,4585
+US,133,1831821,106180
+Uganda,74,489,0
+Ukraine,92,24895,733
+United Arab Emirates,126,35788,269
+United Kingdom,124,279392,39452
+Uruguay,82,826,23
+Uzbekistan,80,3760,15
+Venezuela,81,1819,18
+Vietnam,132,328,0
+West Bank and Gaza,90,451,3
+Western Sahara,59,9,1
+Yemen,54,399,87
+Zambia,77,1089,7
+Zimbabwe,75,206,4
+AC,79,214,6
+AL,88,848,24
+AM,83,1152,36
+AP,76,596,10
+BA,90,1021,26
+CE,80,1373,101
+DF,89,764,14
+ES,90,970,34
+GO,84,212,4
+MA,76,0,0
+MG,88,1071,17
+MS,82,156,0
+MT,76,212,4
+PA,78,1122,49
+PB,78,1159,35
+PE,84,955,79
+PI,77,236,10
+PR,84,0,6
+RJ,91,2508,324
+RN,84,916,26
+RO,76,0,0
+RR,75,293,4
+RS,86,479,13
+SC,84,374,4
+SE,82,434,8
+SP,100,5188,282
+TO,78,215,3

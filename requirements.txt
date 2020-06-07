@@ -1,5 +1,6 @@
 voila
 voila-material
+voila-gridstack
 pandas
 plotly
 ipywidgets

@@ -9,4 +9,4 @@
 * [plotly](https://plotly.com/python-api-reference/plotly.express.html)
 * [plotly vs matlapplot](https://www.activestate.com/blog/plotting-data-in-python-matplotlib-vs-plotly/)
 * [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/index.html)
-
+* [covid19](https://covid19.healthdata.org/brazil)

@@ -13,7 +13,7 @@
 * [ipyvuetify](https://github.com/mariobuikhuizen/ipyvuetify)
 * [ipyvuetify-docs](https://ipyvuetify.readthedocs.io/en/latest/)
 * [jupyter-datatables](https://pypi.org/project/jupyter-datatables/)
-* []()
+* [datatable0pandas-representation](https://medium.com/@marekermk/guide-to-interactive-pandas-dataframe-representation-485acae02946)
 * []()
 ## Referências
 * [voila-gridstack](https://github.com/voila-dashboards/voila-gridstack)

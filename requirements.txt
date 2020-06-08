@@ -3,3 +3,4 @@ voila-material
 pandas
 plotly
 ipywidgets
+jupyter_datatables 

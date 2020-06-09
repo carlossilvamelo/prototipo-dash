@@ -34,5 +34,13 @@ Visualizações sugeridas:
 - Para determinada localidade: Comparativo entre números de casos confirmados e mortes ao longo do tempo.
 insight: o quanto aquela localidade consegue absorver casos confirmados, minimizando mortes.
 
+- Para determinada localidade: Comparativo entre o crescimento das curvas em relacao a outros paises
 
-- 
+cotacoespendentesagendamento?numeroCotacao=2&perPage=2147483647&tipoServico=2&susep=C1192J&cnpj=2004363400013&page=1&placa=DHG7758
+
+fig = go.Figure()
+dataset1 = dataset[['ObservationDate', 'Country',"Confirmed","Deaths"]]
+dataset1 = dataset1.query('Country == "Mainland China"')
+fig.add_scatter(x=dataset1.ObservationDate, y=dataset1.Confirmed,name='Confirmed')
+fig.add_scatter(x=dataset1.ObservationDate, y=dataset1.Deaths, name='Deaths')
+fig.show()
